@@ -8,7 +8,7 @@
         <NoWarn>CA1711</NoWarn>
     </PropertyGroup>
 
-    <Import Project="../nuget/nuget-package.props"/>
+    <!-- <Import Project="../nuget/nuget-package.props"/> -->
 
     <ItemGroup>
         <PackageReference Include="System.Memory.Data"/>
